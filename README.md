@@ -1,7 +1,7 @@
 # jest-testing-practice
 A few functions to practice Jest testing
 
-Some simple functions to practice writing tests for Jest. Good for references.<br>
+Some simple functions (reverse string, calculator etc) to practice writing tests for Jest. Good for references.<br>
 
 Notes: 
 - install npm init + Jest so you get package.json
